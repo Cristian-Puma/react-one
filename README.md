@@ -20,3 +20,9 @@ Digitamos ahora el nombre del proyecto: Helloworld y pulsamos enter.
 En la lista que se muestra seleccionamos: React, luego puslar enter
 
 En la nueva lista seleccionar Javascript y pulsar enter
+
+Desde el terminal debemos acceder a la carpeta del proyecto: cd HelloWorld
+
+Insatalr algunas dependencias necesarias: npm install y pulsar enter
+
+Llego el momento de ejecutar el app react: npm run dev y pulsar enter
