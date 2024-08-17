@@ -1,4 +1,5 @@
 import HolaMundo from "./componentes/HolaMundo";
+import Mensaje from "./componentes/Mensaje";
 
 function App() {
 
